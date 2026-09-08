@@ -28,6 +28,7 @@ Nicht KI-erzeugt sind:
 | `bilder/` | Die 14 Bilddateien, erzeugt von `tools/link-assets.py` im Arbeitsrepository |
 | `bilder/manifest.json` | Maschinenlesbares Manifest: Verweis, Datei, Alt-Text, Verwendung, KI-Kennzeichnung, Maße |
 | `index.html` | Kontaktabzug zur Sichtprüfung — erscheint jedes Bild, sind alle Links erreichbar |
+| `pruefen.py` | Prüft, ob jede Datei aus `manifest.json` vorhanden und nicht leer ist — läuft im Workflow vor dem Deployment, auch von Hand aufrufbar |
 | `.github/workflows/pages.yml` | Deployment auf GitHub Pages |
 
 `bilder/` und `index.html` werden **erzeugt, nicht von Hand gepflegt.** Quelle sind die
