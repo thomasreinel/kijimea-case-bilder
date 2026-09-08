@@ -1,0 +1,55 @@
+name: Bilder auf GitHub Pages veroeffentlichen
+
+# Liefert die Bilddateien aus, auf die praesentation.md per Link verweist.
+# Es wird nichts gebaut - das Repository ist die Website.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Laufende Deployments nicht abbrechen - das Ergebnis ist aussenwirksam.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Vollstaendigkeit pruefen
+        run: |
+          fehlt=0
+          while read -r datei; do
+            [ -z "$datei" ] && continue
+            if [ ! -f "bilder/$datei" ]; then
+              echo "Fehlt: bilder/$datei"
+              fehlt=1
+            fi
+          done < <(python3 -c "
+          import json
+          for e in json.load(open('bilder/manifest.json')):
+              print(e['datei'])
+          ")
+          test "$fehlt" -eq 0 || { echo 'Bilddateien fehlen.'; exit 1; }
+          echo "Alle Dateien aus manifest.json sind vorhanden."
+
+      - name: Artefakt hochladen
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Auf GitHub Pages veroeffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4

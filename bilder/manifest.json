@@ -1,0 +1,156 @@
+[
+  {
+    "verweis": "logo",
+    "datei": "kijimea-logo.svg",
+    "alt": "Kijimea Wortmarke, Marineblau, Vektor",
+    "verwendung": "Wortmarke — Titelseite und Fußzeile",
+    "ki": false,
+    "breite": null,
+    "hoehe": null,
+    "format": "SVG, Vektor, verlustfrei",
+    "bytes": 7755
+  },
+  {
+    "verweis": "trend-marke",
+    "datei": "markensuchvolumen-kijimea-de.svg",
+    "alt": "Suchinteresse Marke Kijimea, Deutschland, 2021 bis 2026",
+    "verwendung": "Diagramm — Seite 9",
+    "ki": false,
+    "breite": null,
+    "hoehe": null,
+    "format": "SVG, Vektor, verlustfrei",
+    "bytes": 2827
+  },
+  {
+    "verweis": "persona-1",
+    "datei": "persona-1-jana.jpg",
+    "alt": "Porträt Jana Berger",
+    "verwendung": "Personakarte — Anhang A.1",
+    "ki": true,
+    "breite": 1086,
+    "hoehe": 1448,
+    "format": "JPEG 1086 × 1448 px",
+    "bytes": 266828
+  },
+  {
+    "verweis": "persona-2",
+    "datei": "persona-2-michael.jpg",
+    "alt": "Porträt Michael Ahrens",
+    "verwendung": "Personakarte — Anhang A.2",
+    "ki": true,
+    "breite": 1086,
+    "hoehe": 1448,
+    "format": "JPEG 1086 × 1448 px",
+    "bytes": 211313
+  },
+  {
+    "verweis": "persona-3",
+    "datei": "persona-3-sabine.jpg",
+    "alt": "Porträt Sabine Rohde",
+    "verwendung": "Personakarte — Anhang A.3",
+    "ki": true,
+    "breite": 1086,
+    "hoehe": 1448,
+    "format": "JPEG 1086 × 1448 px",
+    "bytes": 291988
+  },
+  {
+    "verweis": "persona-4",
+    "datei": "persona-4-nadine.jpg",
+    "alt": "Porträt Nadine Kilic",
+    "verwendung": "Personakarte — Anhang A.4",
+    "ki": true,
+    "breite": 1086,
+    "hoehe": 1448,
+    "format": "JPEG 1086 × 1448 px",
+    "bytes": 291540
+  },
+  {
+    "verweis": "bild-titel",
+    "datei": "motiv-titel.jpg",
+    "alt": "Abstrakte Makroaufnahme durchscheinender Kugelformen in dunkler Flüssigkeit",
+    "verwendung": "Motiv — Titelseite, Seite 1",
+    "ki": true,
+    "breite": 1672,
+    "hoehe": 941,
+    "format": "JPEG 1672 × 941 px",
+    "bytes": 205183
+  },
+  {
+    "verweis": "bild-vorgehen",
+    "datei": "motiv-vorgehen.jpg",
+    "alt": "Mehrere durchscheinende, leere Pergamentbögen übereinander",
+    "verwendung": "Motiv — Seite 2",
+    "ki": true,
+    "breite": 1536,
+    "hoehe": 1024,
+    "format": "JPEG 1536 × 1024 px",
+    "bytes": 217136
+  },
+  {
+    "verweis": "bild-kapitel-1",
+    "datei": "motiv-kapitel-1-kanaele.jpg",
+    "alt": "Konzentrische Lichtringe auf dunklem Grund, ein Ring heller",
+    "verwendung": "Motiv — Kapitelfolie 1, Seite 4",
+    "ki": true,
+    "breite": 1672,
+    "hoehe": 941,
+    "format": "JPEG 1672 × 941 px",
+    "bytes": 121730
+  },
+  {
+    "verweis": "bild-kapitel-2",
+    "datei": "motiv-kapitel-2-team.jpg",
+    "alt": "Feld aus Lichtpunkten mit ungleicher Dichte, durch feine Linien verbunden",
+    "verwendung": "Motiv — Kapitelfolie 2, Seite 10",
+    "ki": true,
+    "breite": 1672,
+    "hoehe": 941,
+    "format": "JPEG 1672 × 941 px",
+    "bytes": 172895
+  },
+  {
+    "verweis": "bild-kapitel-3",
+    "datei": "motiv-kapitel-3-abo.jpg",
+    "alt": "Reihe gleichmäßiger vertikaler Formen mit einer Lücke im Takt",
+    "verwendung": "Motiv — Kapitelfolie 3, Seite 13",
+    "ki": true,
+    "breite": 1672,
+    "hoehe": 941,
+    "format": "JPEG 1672 × 941 px",
+    "bytes": 147608
+  },
+  {
+    "verweis": "bild-kapitel-4",
+    "datei": "motiv-kapitel-4-abtest.jpg",
+    "alt": "Zwei nahezu identische Kugeln mit minimal unterschiedlichem Schattenwurf",
+    "verwendung": "Motiv — Kapitelfolie 4, Seite 16",
+    "ki": true,
+    "breite": 1672,
+    "hoehe": 941,
+    "format": "JPEG 1672 × 941 px",
+    "bytes": 145672
+  },
+  {
+    "verweis": "bild-kapitel-5",
+    "datei": "motiv-kapitel-5-retouren.jpg",
+    "alt": "Lichtspur, die einen Bogen zurück zum Ausgangspunkt zieht, ohne sich zu schließen",
+    "verwendung": "Motiv — Kapitelfolie 5, Seite 20",
+    "ki": true,
+    "breite": 1672,
+    "hoehe": 941,
+    "format": "JPEG 1672 × 941 px",
+    "bytes": 109159
+  },
+  {
+    "verweis": "bild-schritt",
+    "datei": "motiv-naechster-schritt.jpg",
+    "alt": "Einzelne Steinstufe, von der Seite von Morgenlicht gestreift",
+    "verwendung": "Motiv — Seite 24",
+    "ki": true,
+    "breite": 1672,
+    "hoehe": 941,
+    "format": "JPEG 1672 × 941 px",
+    "bytes": 241435
+  }
+]
