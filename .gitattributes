@@ -1,0 +1,5 @@
+# Textdateien mit LF im Repository, damit der Pages-Workflow unter Linux
+# dieselben Dateien sieht, die hier erzeugt wurden.
+*        text=auto eol=lf
+*.jpg    binary
+*.svg    text eol=lf
