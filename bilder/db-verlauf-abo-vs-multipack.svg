@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 620" width="1060" height="620" font-family="Inter, system-ui, sans-serif" role="img" aria-label="Kumulierter Deckungsbeitrag je Erstkaeufer ueber 364 Tage, Abo in drei Retention-Rate-Szenarien gegen Multi-Pack">
+<rect width="1060" height="620" fill="#fbfbf9"/>
+<text x="104" y="34" font-size="21" font-weight="700" fill="#1c1b19">Wann holt das Abo den Multi-Pack ein?</text>
+<text x="104" y="58" font-size="14" fill="#5f5c56">Kumulierter Deckungsbeitrag je Erstkäufer · eine Kapsel täglich</text>
+<rect x="290.4" y="104" width="186.4" height="300" fill="#f4f5f7"/>
+<text x="383.6" y="92" font-size="13" fill="#5f5c56" text-anchor="middle">empfohlene Kurdauer · mindestens 3, besser 6 Monate</text>
+<line x1="104" y1="404.0" x2="858" y2="404.0" stroke="#e2e0da" stroke-width="1"/>
+<text x="92" y="409.0" font-size="14" fill="#5f5c56" text-anchor="end">0 €</text>
+<line x1="104" y1="357.8" x2="858" y2="357.8" stroke="#e2e0da" stroke-width="1"/>
+<text x="92" y="362.8" font-size="14" fill="#5f5c56" text-anchor="end">20 €</text>
+<line x1="104" y1="311.7" x2="858" y2="311.7" stroke="#e2e0da" stroke-width="1"/>
+<text x="92" y="316.7" font-size="14" fill="#5f5c56" text-anchor="end">40 €</text>
+<line x1="104" y1="265.5" x2="858" y2="265.5" stroke="#e2e0da" stroke-width="1"/>
+<text x="92" y="270.5" font-size="14" fill="#5f5c56" text-anchor="end">60 €</text>
+<line x1="104" y1="219.4" x2="858" y2="219.4" stroke="#e2e0da" stroke-width="1"/>
+<text x="92" y="224.4" font-size="14" fill="#5f5c56" text-anchor="end">80 €</text>
+<line x1="104" y1="173.2" x2="858" y2="173.2" stroke="#e2e0da" stroke-width="1"/>
+<text x="92" y="178.2" font-size="14" fill="#5f5c56" text-anchor="end">100 €</text>
+<line x1="104" y1="127.1" x2="858" y2="127.1" stroke="#e2e0da" stroke-width="1"/>
+<text x="92" y="132.1" font-size="14" fill="#5f5c56" text-anchor="end">120 €</text>
+<line x1="104" y1="404" x2="858" y2="404" stroke="#5f5c56" stroke-width="1.5"/>
+<line x1="104.0" y1="404" x2="104.0" y2="410" stroke="#5f5c56" stroke-width="1.5"/>
+<text x="104.0" y="429" font-size="14" fill="#5f5c56" text-anchor="middle">0</text>
+<line x1="278.0" y1="404" x2="278.0" y2="410" stroke="#5f5c56" stroke-width="1.5"/>
+<text x="278.0" y="429" font-size="14" fill="#5f5c56" text-anchor="middle">84</text>
+<line x1="452.0" y1="404" x2="452.0" y2="410" stroke="#5f5c56" stroke-width="1.5"/>
+<text x="452.0" y="429" font-size="14" fill="#5f5c56" text-anchor="middle">168</text>
+<line x1="626.0" y1="404" x2="626.0" y2="410" stroke="#5f5c56" stroke-width="1.5"/>
+<text x="626.0" y="429" font-size="14" fill="#5f5c56" text-anchor="middle">252</text>
+<line x1="800.0" y1="404" x2="800.0" y2="410" stroke="#5f5c56" stroke-width="1.5"/>
+<text x="800.0" y="429" font-size="14" fill="#5f5c56" text-anchor="middle">336</text>
+<line x1="858.0" y1="404" x2="858.0" y2="410" stroke="#5f5c56" stroke-width="1.5"/>
+<text x="858.0" y="429" font-size="14" fill="#5f5c56" text-anchor="middle">364</text>
+<text x="858" y="449" font-size="13" fill="#5f5c56" text-anchor="end">Tage seit Erstkauf</text>
+<path d="M 104.0,219.9 H 452.0 V 219.9 H 800.0 V 219.9 H 858.0" fill="none" stroke="#8a8781" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="141.3" y="207.9" font-size="13" font-weight="700" fill="#8a8781">A · Repeat Purchase 0 % · 79,78 €</text>
+<path d="M 104.0,219.9 H 452.0 V 173.9 H 800.0 V 162.4 H 858.0" fill="none" stroke="#5f5c56" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="497.6" y="150.4" font-size="13" font-weight="700" fill="#5f5c56">A · Repeat Purchase 25 % · 104,71 €</text>
+<path d="M 104.0,335.7 H 278.0 V 290.6 H 452.0 V 268.0 H 626.0 V 256.7 H 800.0 V 251.1 H 858.0" fill="none" stroke="#838fa9" stroke-width="2.5"/>
+<circle cx="104.0" cy="335.7" r="4.5" fill="#838fa9" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="278.0" cy="290.6" r="4.5" fill="#838fa9" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="452.0" cy="268.0" r="4.5" fill="#838fa9" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="626.0" cy="256.7" r="4.5" fill="#838fa9" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="800.0" cy="251.1" r="4.5" fill="#838fa9" stroke="#fbfbf9" stroke-width="2"/>
+<text x="868" y="252.1" font-size="13" font-weight="700" fill="#838fa9">B · 66,27 €</text>
+<text x="868" y="269.1" font-size="12" fill="#5f5c56">Retention 50 %</text>
+<path d="M 104.0,335.7 H 278.0 V 277.0 H 452.0 V 238.9 H 626.0 V 214.1 H 800.0 V 198.0 H 858.0" fill="none" stroke="#56678a" stroke-width="2.5"/>
+<circle cx="104.0" cy="335.7" r="4.5" fill="#56678a" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="278.0" cy="277.0" r="4.5" fill="#56678a" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="452.0" cy="238.9" r="4.5" fill="#56678a" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="626.0" cy="214.1" r="4.5" fill="#56678a" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="800.0" cy="198.0" r="4.5" fill="#56678a" stroke="#fbfbf9" stroke-width="2"/>
+<text x="868" y="199.0" font-size="13" font-weight="700" fill="#56678a">B · 89,26 €</text>
+<text x="868" y="216.0" font-size="12" fill="#5f5c56">Retention 65 %</text>
+<path d="M 104.0,335.7 H 278.0 V 263.5 H 452.0 V 205.7 H 626.0 V 159.6 H 800.0 V 122.6 H 858.0" fill="none" stroke="#1e3463" stroke-width="2.5"/>
+<circle cx="104.0" cy="335.7" r="4.5" fill="#1e3463" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="278.0" cy="263.5" r="4.5" fill="#1e3463" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="452.0" cy="205.7" r="4.5" fill="#1e3463" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="626.0" cy="159.6" r="4.5" fill="#1e3463" stroke="#fbfbf9" stroke-width="2"/>
+<circle cx="800.0" cy="122.6" r="4.5" fill="#1e3463" stroke="#fbfbf9" stroke-width="2"/>
+<text x="868" y="123.6" font-size="13" font-weight="700" fill="#1e3463">B · 121,94 €</text>
+<text x="868" y="140.6" font-size="12" fill="#5f5c56">Retention 80 %</text>
+<circle cx="452.0" cy="205.7" r="11" fill="none" stroke="#1e3463" stroke-width="2"/>
+<text x="434.0" y="210.7" font-size="13" font-weight="700" fill="#1e3463" text-anchor="end">überholt A</text>
+<circle cx="626.0" cy="214.1" r="11" fill="none" stroke="#1e3463" stroke-width="2"/>
+<text x="644.0" y="200.1" font-size="13" font-weight="700" fill="#1e3463">überholt A</text>
+<line x1="104" y1="438" x2="858" y2="438" stroke="#e2e0da" stroke-width="1"/>
+<circle cx="104.0" cy="466.0" r="7" fill="#1e3463"/>
+<circle cx="278.0" cy="466.0" r="7" fill="#1e3463"/>
+<circle cx="452.0" cy="466.0" r="7" fill="#1e3463"/>
+<circle cx="626.0" cy="466.0" r="7" fill="#1e3463"/>
+<circle cx="800.0" cy="466.0" r="7" fill="#1e3463"/>
+<text x="868" y="470" font-size="14" font-weight="700" fill="#1e3463">B · Abo</text>
+<text x="868" y="487" font-size="12" fill="#5f5c56">läuft automatisch</text>
+<path d="M 104.0,520 l 8,14 l -16,0 z" fill="#fbfbf9" stroke="#5f5c56" stroke-width="2"/>
+<path d="M 452.0,520 l 8,14 l -16,0 z" fill="#fbfbf9" stroke="#5f5c56" stroke-width="2"/>
+<path d="M 800.0,520 l 8,14 l -16,0 z" fill="#fbfbf9" stroke="#5f5c56" stroke-width="2"/>
+<text x="452.0" y="556" font-size="13" font-weight="700" fill="#5f5c56" text-anchor="middle">Wiederkauf nötig</text>
+<text x="800.0" y="556" font-size="13" font-weight="700" fill="#5f5c56" text-anchor="middle">Wiederkauf nötig</text>
+<text x="868" y="532" font-size="14" font-weight="700" fill="#5f5c56">A · Multi-Pack</text>
+<text x="868" y="549" font-size="12" fill="#5f5c56">aktiver Nachkauf</text>
+<text x="104" y="602" font-size="13" fill="#5f5c56">Modellwerte je Erstkäufer · 15 % Einstiegsrabatt · 7 % USt · Retention Rate = Anteil, der die nächste Lieferung bezahlt</text>
+</svg>
